@@ -13,4 +13,7 @@ There are 3 steps in the development:
 2. Changed the language from Scala to Java to better integrate with the existing software coded in Java and facilitate support for the company.
 3. Setting a proper was not an option for the company so I changed the data scheme which allowed me to process the data in reasonable times without distributed methods and I then rewrote the existing SQL queries to  fit the new architecture.
 
-I have separated each part in a folder.
+I have separated each part in a folder:
+1. Scala
+2. Java
+3. SQL
